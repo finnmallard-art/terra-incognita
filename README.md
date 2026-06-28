@@ -85,3 +85,4 @@ terra-deploy/
     ├── theme.css        — design tokens (colors, fonts) used throughout
     └── App.jsx          — the entire application (all pages, all logic)
 ```
+Connected to GitHub + Vercel auto-deploy ✅
